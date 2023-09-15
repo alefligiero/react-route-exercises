@@ -7,7 +7,7 @@ export default function HomeBody() {
     <main>
       <section className="site-container">
         <div className="mt30 mb30">
-          <Card title="Pagina Inicial" />
+          <Card title="Pagina inicial" />
         </div>
         <div className="dflex">
           <Link to={"/promotion"}>
