@@ -1,0 +1,19 @@
+header {
+    display: flex;
+    height: 80px;
+    background-color: var(--color-bg-tertiary);
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: unset;
+}
+
+nav h1 {
+    text-decoration: none;
+    color: unset;
+    color: var(--color-font-secundary);
+    font-size: 20px;
+    font-weight: 700;
+}
