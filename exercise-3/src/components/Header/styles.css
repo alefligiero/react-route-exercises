@@ -1,0 +1,32 @@
+header {
+  display: flex;
+  height: 80px;
+  background-color: var(--color-bg-tertiary);
+  align-items: center;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav h1 {
+  color: var(--color-font-secundary);
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.navbar-items {
+  display: flex;
+  color: var(--color-font-secundary);
+  font-size: 14px;
+}
+
+.navbar-item {
+    margin-left: 20px;
+}
+
+.menu-active {
+  font-weight: 700;
+}
