@@ -1,0 +1,12 @@
+header {
+    display: flex;
+    height: 80px;
+    background-color: var(--color-bg-tertiary);
+    align-items: center;
+}
+
+nav h1 {
+    color: var(--color-font-secundary);
+    font-size: 20px;
+    font-weight: 700;
+}

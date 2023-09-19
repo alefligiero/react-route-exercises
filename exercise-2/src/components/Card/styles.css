@@ -1,0 +1,12 @@
+.div-card {
+    height: 200px;
+    background-color: var(--color-bg-secundary);
+    padding: 20px;
+    border-radius: 6px;
+}
+
+.div-card h2 {
+    color: var(--color-font-primary);
+    font-size: 20px;
+    font-weight: 700;
+}
